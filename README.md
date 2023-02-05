@@ -33,3 +33,12 @@ You must apply for the UK Biobank data through the Access Management System. Thi
 Documents in this repository and their role in the study replication
 ------------
 
+Overview of data processing and analysis steps.docx. This is the organizing document that references all of the other files required for successfully replicating this study.
+STEPS FOR COHORT FILTER (and docs)
+STEPS FOR PHENOTYPIC DATA PROCESSING (and docs)
+STEPS FOR GENETIC DATA PROCESSING (and docs)
+STEPS FOR MERGING GENETIC AND PHENOTYPIC DATA (and docs)
+SANITY CHECKS PERFORMED AND RATIONALE DOCUMENT (and docs)
+ANALYSIS CODE FOR RUNNING THE MODELS AND OTHER ANALYSES (and docs)
+
+
