@@ -1,6 +1,6 @@
 
 
-Overall workflow and analysis code for SSM-Population Health paper "Does educational attainment modify the causal relationship between adiposity and cardiovascular disease? A Mendelian randomization study"
+Workflow and analysis code for SSM-Population Health paper "Does educational attainment modify the causal relationship between adiposity and cardiovascular disease? A Mendelian randomization study"
 ------------
 
 __Authors:__ Robert C. Schell,
@@ -21,7 +21,7 @@ Repository Contents
 ------------
 
 This repository contains a detailed overview of the steps required to reproduce the analyses in the _SSM-Population Health_ article "Does educational attainment modify the causal relationship between adiposity and cardiovascular disease? A Mendelian randomization study."
-We detail the processing of the phenotype data, the genomic data, the code for the actual analyses, as well as sanity checks we made to increase our confidence in the data processing steps.
+We detail the processing of the phenotype data, the genomic data, the code for the actual analyses, as well as sanity checks we made to increase our confidence in the data processing steps. This requires the use of several different software package, all of which are available on UK Biobank's Research Analysis Platform.
 
 Dataset Availability
 -----------
