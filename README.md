@@ -39,12 +39,12 @@ A pre-analysis plan is available on Open Science Framework at https://osf.io/ea2
 Folder Structure in this repository and their role in the study replication
 ------------
 
-1. Overview of data processing and analysis steps.docx. This is the organizing document that references all of the other files required for successfully replicating this study.
-2. STEPS FOR COHORT FILTER (and docs)
-3. STEPS FOR PHENOTYPIC DATA PROCESSING (and docs)
-4. STEPS FOR GENETIC DATA PROCESSING (and docs)
-5. STEPS FOR MERGING GENETIC AND PHENOTYPIC DATA (and docs)
-6. SANITY CHECKS PERFORMED AND RATIONALE DOCUMENT (and docs)
-7. ANALYSIS CODE FOR RUNNING THE MODELS AND PRODUCING FIGURES AND TABLES (and docs)
+>1. Overview of data processing and analysis steps.docx. This is the organizing document that references all of the other files required for successfully replicating this study.
+>2. STEPS FOR COHORT FILTER (and docs)
+>3. STEPS FOR PHENOTYPIC DATA PROCESSING (and docs)
+>4. STEPS FOR GENETIC DATA PROCESSING (and docs)
+>5. STEPS FOR MERGING GENETIC AND PHENOTYPIC DATA (and docs)
+>6. SANITY CHECKS PERFORMED AND RATIONALE DOCUMENT (and docs)
+>7. ANALYSIS CODE FOR RUNNING THE MODELS AND PRODUCING FIGURES AND TABLES (and docs)
 
 *SHOULD ALSO REFERENCE USEFUL RESOURCES USED TO HELP CREATE THIS
