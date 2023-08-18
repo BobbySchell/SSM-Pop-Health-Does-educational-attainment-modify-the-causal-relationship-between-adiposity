@@ -30,6 +30,10 @@ You must apply for the UK Biobank data through the Access Management System. Thi
 
 ---
 
+Pre-Analysis Plan
+-----------------
+A pre-analysis plan is available on Open Science Framework at https://osf.io/ea2gs.
+
 Documents in this repository and their role in the study replication
 ------------
 
