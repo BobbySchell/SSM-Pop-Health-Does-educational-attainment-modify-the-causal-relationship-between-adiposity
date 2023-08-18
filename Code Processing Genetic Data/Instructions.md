@@ -74,7 +74,7 @@ This transforms the files into variant call format file, which are readily manip
 
 *Converting VCF Files to CSV*
 
-For all chromosomes at once, use R to convert VCF files into CSVs and make data workable using “Official UKB Chrom 1 Conversion File.R” There’s too much code to put here but it’s straightforward.
+For all chromosomes at once, use R to convert VCF files into CSVs and make data workable using “UK Biobank Chrome Conversion."
 
 *References*
 
