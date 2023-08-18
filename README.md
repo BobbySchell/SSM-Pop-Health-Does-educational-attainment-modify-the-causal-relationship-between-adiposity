@@ -36,7 +36,7 @@ A pre-analysis plan is available on Open Science Framework at https://osf.io/ea2
 
 ---
 
-Documents in this repository and their role in the study replication
+Folder Structure in this repository and their role in the study replication
 ------------
 
 1. Overview of data processing and analysis steps.docx. This is the organizing document that references all of the other files required for successfully replicating this study.
