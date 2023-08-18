@@ -77,16 +77,17 @@ This transforms the files into variant call format file, which are readily manip
 For all chromosomes at once, use R to convert VCF files into CSVs and make data workable using “Official UKB Chrom 1 Conversion File.R” There’s too much code to put here but it’s straightforward.
 
 *References*
->1. 	Locke AE, Kahali B, Berndt SI, et al. Genetic studies of body mass index yield new insights for obesity biology. Nat 2015 5187538. 2015;518(7538):197-206. doi:10.1038/nature14177
->2. 	Collister JA, Liu X, Clifton L. Calculating Polygenic Risk Scores (PRS) in UK Biobank: A Practical Guide for Epidemiologists. Front Genet. 2022;13:105. doi:10.3389/FGENE.2022.818574/BIBTEX
->3. 	Ormond C, Ryan NM, Corvin A, Heron EA. Converting single nucleotide variants between genome builds: from cautionary tale to solution. Brief Bioinform. 2021;22(5):1-7. doi:10.1093/BIB/BBAB069
->4. 	Guo Y, Dai Y, Yu H, Zhao S, Samuels DC, Shyr Y. Improvements and impacts of GRCh38 human reference on high throughput sequencing data analysis. Genomics. 2017;109(2):83-90. doi:10.1016/J.YGENO.2017.01.005
->5. 	Hemani G, Zheng J, Elsworth B, et al. The MR-base platform supports systematic causal inference across the human phenome. Elife. 2018;7. doi:10.7554/ELIFE.34408
->6. 	Hartwig FP, Davies NM, Hemani G, Davey Smith G. Two-sample Mendelian randomization: avoiding the downsides of a powerful, widely applicable but potentially fallible technique. Int J Epidemiol. 2016;45(6):1717->1726. doi:10.1093/ije/dyx028
->7. 	Nelson SC, Doheny KF, Laurie CC, Mirel DB. Is ‘forward’ the same as ‘plus’?… and other adventures in SNP allele nomenclature. Trends Genet. 2012;28(8):361. doi:10.1016/J.TIG.2012.05.002
->8. 	Band G, Marchini J. BGEN: a binary file format for imputed genotype and haplotype data. doi:10.1101/308296
->9. 	O’Sullivan JW, Ioannidis JPA. Reproducibility in the UK biobank of genome-wide significant signals discovered in earlier genome-wide association studies. Sci Reports 2021 111. 2021;11(1):1-7. doi:10.1038/s41598->021-97896-y
->10. 	C M, F DGM, DA  van der P, J B, NA S, J T. The use of two-sample methods for Mendelian randomization analyses on single large datasets. Int J Epidemiol. April 2021. doi:10.1093/IJE/DYAB084
+
+1. 	Locke AE, Kahali B, Berndt SI, et al. Genetic studies of body mass index yield new insights for obesity biology. Nat 2015 5187538. 2015;518(7538):197-206. doi:10.1038/nature14177
+2. 	Collister JA, Liu X, Clifton L. Calculating Polygenic Risk Scores (PRS) in UK Biobank: A Practical Guide for Epidemiologists. Front Genet. 2022;13:105. doi:10.3389/FGENE.2022.818574/BIBTEX
+3. 	Ormond C, Ryan NM, Corvin A, Heron EA. Converting single nucleotide variants between genome builds: from cautionary tale to solution. Brief Bioinform. 2021;22(5):1-7. doi:10.1093/BIB/BBAB069
+4. 	Guo Y, Dai Y, Yu H, Zhao S, Samuels DC, Shyr Y. Improvements and impacts of GRCh38 human reference on high throughput sequencing data analysis. Genomics. 2017;109(2):83-90. doi:10.1016/J.YGENO.2017.01.005
+5. 	Hemani G, Zheng J, Elsworth B, et al. The MR-base platform supports systematic causal inference across the human phenome. Elife. 2018;7. doi:10.7554/ELIFE.34408
+6. 	Hartwig FP, Davies NM, Hemani G, Davey Smith G. Two-sample Mendelian randomization: avoiding the downsides of a powerful, widely applicable but potentially fallible technique. Int J Epidemiol. 2016;45(6):1717->1726. doi:10.1093/ije/dyx028
+7. 	Nelson SC, Doheny KF, Laurie CC, Mirel DB. Is ‘forward’ the same as ‘plus’?… and other adventures in SNP allele nomenclature. Trends Genet. 2012;28(8):361. doi:10.1016/J.TIG.2012.05.002
+8. 	Band G, Marchini J. BGEN: a binary file format for imputed genotype and haplotype data. doi:10.1101/308296
+9. 	O’Sullivan JW, Ioannidis JPA. Reproducibility in the UK biobank of genome-wide significant signals discovered in earlier genome-wide association studies. Sci Reports 2021 111. 2021;11(1):1-7. doi:10.1038/s41598->021-97896-y
+10. 	C M, F DGM, DA  van der P, J B, NA S, J T. The use of two-sample methods for Mendelian randomization analyses on single large datasets. Int J Epidemiol. April 2021. doi:10.1093/IJE/DYAB084
 
 
 
