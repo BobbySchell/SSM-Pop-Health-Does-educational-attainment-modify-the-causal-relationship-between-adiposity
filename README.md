@@ -42,9 +42,5 @@ A pre-analysis plan is available on Open Science Framework at https://osf.io/ea2
 >1. Code Processing Non-Genetic Data
 >2. Code Processing Genetic Data
 >3. Combining Genetic and Phenotypic Data
->4. STEPS FOR GENETIC DATA PROCESSING (and docs)
->5. STEPS FOR MERGING GENETIC AND PHENOTYPIC DATA (and docs)
->6. SANITY CHECKS PERFORMED AND RATIONALE DOCUMENT (and docs)
->7. ANALYSIS CODE FOR RUNNING THE MODELS AND PRODUCING FIGURES AND TABLES (and docs)
-
-*SHOULD ALSO REFERENCE USEFUL RESOURCES USED TO HELP CREATE THIS
+>4. Analysis Code
+>5. Sanity Checking
