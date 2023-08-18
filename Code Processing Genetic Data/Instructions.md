@@ -87,7 +87,7 @@ For all chromosomes at once, use R to convert VCF files into CSVs and make data 
 7. 	Nelson SC, Doheny KF, Laurie CC, Mirel DB. Is ‘forward’ the same as ‘plus’?… and other adventures in SNP allele nomenclature. Trends Genet. 2012;28(8):361. doi:10.1016/J.TIG.2012.05.002
 8. 	Band G, Marchini J. BGEN: a binary file format for imputed genotype and haplotype data. doi:10.1101/308296
 9. 	O’Sullivan JW, Ioannidis JPA. Reproducibility in the UK biobank of genome-wide significant signals discovered in earlier genome-wide association studies. Sci Reports 2021 111. 2021;11(1):1-7. doi:10.1038/s41598->021-97896-y
-10. 	C M, F DGM, DA  van der P, J B, NA S, J T. The use of two-sample methods for Mendelian randomization analyses on single large datasets. Int J Epidemiol. April 2021. doi:10.1093/IJE/DYAB084
+10. C M, F DGM, DA  van der P, J B, NA S, J T. The use of two-sample methods for Mendelian randomization analyses on single large datasets. Int J Epidemiol. April 2021. doi:10.1093/IJE/DYAB084
 
 
 
