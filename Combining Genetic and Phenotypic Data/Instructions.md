@@ -1,5 +1,5 @@
-#Instructions for Section
-
+Instructions for Section
+---------------
 We used “EDITED Official UKB Combining Pheno and Geno Data.R” and “Official UKB Combining Pheno and Geno ALL OTHER CHROMS.R”. 
 This process did involve transposing the matrix of genetic variants for each chromosome and using some regular expressions to get the ID variable formatted correctly. It seems to have gone smoothly based on sanity checks.
 
